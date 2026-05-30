@@ -28,4 +28,4 @@ Como o sistema foi construído em PHP puro, é necessário um ambiente de servid
 
 1. Faça o download ou clone este repositório:
 ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone [https://github.com/tomasouza2007/geladeira-inteligente.git](https://github.com/tomasouza2007/geladeira-inteligente.git)
