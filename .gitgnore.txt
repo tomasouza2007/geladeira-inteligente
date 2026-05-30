@@ -1,0 +1,22 @@
+# Extensões e Logs do XAMPP / Servidores
+*.log
+.htaccess
+
+# Pastas de ambiente ou IDEs
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Arquivos do Sistema Operacional
+Thumbs.db
+.DS_Store
+ehthumbs.db
+
+# Arquivos de backup gerados por editores
+*~
+*.bak
+*.tmp
